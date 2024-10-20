@@ -1,2 +1,3 @@
-# MNA-Revived
-Testing repository
+# MeteoNook Alpha: Revived
+
+Currently a testing repository.
